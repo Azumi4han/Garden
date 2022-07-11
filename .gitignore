@@ -1,8 +1,8 @@
 .DS_Store
-
-
-./pump/.DS_Store
-./valve/.DS_Store
-./valve/variables.h
-./pump/variables.h
 .idea
+
+valve/variables.h
+pump/variables.h
+
+pump/.DS_Store
+valve/.DS_Store

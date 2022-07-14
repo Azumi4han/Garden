@@ -29,7 +29,7 @@ extern void start_server() {
   }
 
   if (patiens == 50) { 
-    Serial.println(" offline ready!");
+    Serial.println("\noffline ready!");
   }
   else {
     Serial.println(" connected");

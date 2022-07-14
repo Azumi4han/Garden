@@ -41,9 +41,6 @@ extern void listen_connection() {;
 }
 
 
-extern void check_time() {
-  if (WiFi.status())
-}
 
 
 
